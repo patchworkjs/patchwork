@@ -28,4 +28,4 @@ Patchworkjs is an MIT-licensed open source project. It can grow thanks to the sp
 
 ## License
 
-Patchowrk is [MIT licensed](LICENSE).
+Patchworkjs is [MIT licensed](LICENSE).
