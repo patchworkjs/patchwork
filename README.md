@@ -3,7 +3,7 @@
 </p>
 
 
-  <p align="center"> Lightweight libraries fro CQRS in TypeScript</p>
+  <p align="center"> Lightweight libraries for CQRS in TypeScript</p>
 <img src="https://img.shields.io/github/downloads/patchworkjs/patchwork/total?logo=github" alt="NPM Version" />
 
 ## Description
