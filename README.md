@@ -8,8 +8,7 @@
 
 ## Description
 
-Patchowrk is a collection of libraries for CQRS, and it is built with  <a href="http://www.typescriptlang.org" target="_blank">TypeScript</a>  and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming).
-
+Patchowrk is a collection of libraries for CQRS, and it is built with  <a href="http://www.typescriptlang.org" target="_blank">TypeScript</a>.
 
 
 ## Getting started
