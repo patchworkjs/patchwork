@@ -15,11 +15,9 @@ Patchowrk is a collection of libraries for CQRS, and it is built with  <a href="
 
 * To check out the [guide](https://docs.patchworkjs.com), visit [docs.patchworkjs.com](https://docs.patchworkjs.com). :books:
 
-isions), PR reviews, and team augmentation. Read more about [support here](https://enterprise.nestjs.com).
-
 ## Support
 
-Patchworkjs is an MIT-licensed open source project. It can grow thanks to the sponsors and support from the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+Patchworkjs is an MIT-licensed open source project. It can grow thanks to the sponsors and support from the amazing backers. If you'd like to join them, please [read more here](https://docs.patchworkjs.com/support).
 
 
 ## Stay in touch
