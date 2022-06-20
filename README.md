@@ -4,7 +4,8 @@
 
 
   <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
-[gitub-downloads-image]:https://img.shields.io/github/downloads/patchworkjs/patchwork/total?logo=github
+<img src="https://img.shields.io/github/downloads/patchworkjs/patchwork/total?logo=github" alt="NPM Version" />
+
 ## Description
 
 Patchowrk is a collection of libraries for CQRS, and it is built with  <a href="http://www.typescriptlang.org" target="_blank">TypeScript</a>  and combines elements of OOP (Object Oriented Programming), FP (Functional Programming), and FRP (Functional Reactive Programming).
