@@ -3,7 +3,7 @@
 </p>
 
 
-  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
+  <p align="center"> Lightweight libraries fro CQRS in TypeScript</p>
 <img src="https://img.shields.io/github/downloads/patchworkjs/patchwork/total?logo=github" alt="NPM Version" />
 
 ## Description
